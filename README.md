@@ -1,5 +1,5 @@
 # simple-finance-logger
-This was just a simple finance logger 
+A simple finance logger 
 
 - ⚡ Project created with  **html, css, (Language *TypeScript*)
 
